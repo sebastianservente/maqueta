@@ -55,6 +55,15 @@ html{
             background: red;
             color: black;
 }        
+main{
+    background-color: gray;
+    display: block;
+    float: left;
+    width: 79%;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
 
 .cuadro{ 
         text-align: left;
